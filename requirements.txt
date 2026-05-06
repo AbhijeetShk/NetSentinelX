@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
+scapy
+psutil
+requests
+networkx
+pyvis
